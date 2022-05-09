@@ -1,0 +1,70 @@
+dictionary = {
+    ["DictKey_ActionText_10501"] = "return false -- scripts",
+    ["DictKey_ActionText_10502"] = "return false -- config",
+    ["DictKey_ActionText_10601"] = "return VEAF_DYNAMIC_PATH~=nil",
+    ["DictKey_ActionText_10701"] = "return VEAF_DYNAMIC_PATH==nil",
+    ["DictKey_ActionText_10801"] = "return VEAF_DYNAMIC_MISSIONPATH~=nil",
+    ["DictKey_ActionText_10901"] = "return VEAF_DYNAMIC_MISSIONPATH==nil",
+    ["DictKey_ActionText_202"] = "local script = [[d:\\dev\\_VEAF\\VEAF-Mission-Creation-Tools\\src\\scripts\\Hooks\\trainingSpawnZone.lua]]\
+assert(loadfile(script))()",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_descriptionText_1"] = "ZONE DISPO :\
+\
+BVR STAGE 1 - FOX -1/2 - FACILE\
+\
+- MIG-21\
+- MIG-23\
+- MIG-25\
+- MIG-29A\
+- F-4E\
+\
+BVR STAGE 2 -FOX 1/2 - MOYEN \
+\
+Départ 10k Feets - Interdiction de depasser 20k Feets\
+\
+- MIG-31\
+- SU-27\
+- M-2000C\
+- MIG-29A\
+\
+BVR ZONE 3 - FOX3/2/1 - DIFFICILE\
+\
+Départ 25k Feets.\
+\
+- MIG-29S\
+- J-11A\
+- SU-30\
+- M2000-5\
+- JF-17\
+- F15E\
+\
+BVR ZONE 4 - FOX3/2/1 - DIFFICILE\
+\
+Départ 10K Feets - Interdiction de depasser 20k Feets\
+\
+- JF-17 ECM\
+- F16CM ECM\
+- SU-30 ECM\
+- F/A18C\
+- F-14A\
+\
+ZONE FOX3\
+\
+zone speciale pour \"essayer\" de simuler du pvp.\
+\
+Départ 5k Feets - Interdiction de depasser 15k Feets\
+\
+ENT \
+\
+Entrainement à l'évitement des differents types de missiles.\
+\
+ORDONNANCE \
+\
+F/A18C :  6x120c - 2x9X\
+F-14B: 4x54C - 2x7Mh - 2x9M\
+M-2000C: 2x530D - 2xMAGICII\
+",
+    ["DictKey_sortie_5"] = "Top Gun Academy 3",
+} -- end of dictionary
