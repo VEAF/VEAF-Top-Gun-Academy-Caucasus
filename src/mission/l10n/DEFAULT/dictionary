@@ -1,4 +1,13 @@
 dictionary = {
+    ["DictKey_ActionRadioText_1306"] = "Pirates",
+    ["DictKey_ActionRadioText_1316"] = "Come with me",
+    ["DictKey_ActionRadioText_1317"] = "Troll",
+    ["DictKey_ActionRadioText_1318"] = "Pirates",
+    ["DictKey_ActionRadioText_1319"] = "Pirates",
+    ["DictKey_ActionRadioText_1320"] = "Pirates",
+    ["DictKey_ActionRadioText_1321"] = "Pirates",
+    ["DictKey_ActionRadioText_1322"] = "Pirates",
+    ["DictKey_ActionRadioText_1323"] = "STOP MUSIC",
     ["DictKey_ActionText_10501"] = "return false -- scripts",
     ["DictKey_ActionText_10502"] = "return false -- config",
     ["DictKey_ActionText_10601"] = "return VEAF_DYNAMIC_PATH~=nil",
