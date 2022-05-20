@@ -461,9 +461,9 @@ if trainingSpawnZone then
     
     --------- BVR STAGE 4 - SU-30 ECM
     
-    trainingSpawnZone.registerZone("BVR - STAGE 4 JF17ECMx1 -F18", {"BVR STAGE 4 - SU-30-ECM - 1vs1 - F/A18C", "BVR STAGE 4 - SU30ECM - 1vs1 - M-2000C", "BVR STAGE 4 - SU-30ECM - 1vs1 - F-14B"}, {"BVR - STAGE 4 - SU30ECM X1"}, true)
-    trainingSpawnZone.registerZone("BVR - STAGE 4 JF17ECMx2 -F18", {"BVR STAGE 4 - SU-30-ECM - 2vs2 - F/A18C", "BVR STAGE 4 - SU30ECM - 2vs2 - M-2000C", "BVR STAGE 4 - SU-30ECM - 2vs2 - F-14B"}, {"BVR - STAGE 4 - SU30ECM X2"}, true)
-    trainingSpawnZone.registerZone("BVR - STAGE 4 JF17ECMx4 -F18", {"BVR STAGE 4 - SU-30-ECM - 4vs4 - F/A18C", "BVR STAGE 4 - SU30ECM - 4vs4 - M-2000C", "BVR STAGE 4 - SU-30ECM - 4vs4 - F-14B"}, {"BVR - STAGE 4 - SU30ECM X4"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 4 SU30ECMx1 -F18", {"BVR STAGE 4 - SU-30-ECM - 1vs1 - F/A18C", "BVR STAGE 4 - SU30ECM - 1vs1 - M-2000C", "BVR STAGE 4 - SU-30ECM - 1vs1 - F-14B"}, {"BVR - STAGE 4 - SU30ECM X1"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 4 SU30ECMx2 -F18", {"BVR STAGE 4 - SU-30-ECM - 2vs2 - F/A18C", "BVR STAGE 4 - SU30ECM - 2vs2 - M-2000C", "BVR STAGE 4 - SU-30ECM - 2vs2 - F-14B"}, {"BVR - STAGE 4 - SU30ECM X2"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 4 SU30ECMx4 -F18", {"BVR STAGE 4 - SU-30-ECM - 4vs4 - F/A18C", "BVR STAGE 4 - SU30ECM - 4vs4 - M-2000C", "BVR STAGE 4 - SU-30ECM - 4vs4 - F-14B"}, {"BVR - STAGE 4 - SU30ECM X4"}, true)
     
     --------- BVR STAGE 4 - JF-17 ECM
     
@@ -516,12 +516,12 @@ if trainingSpawnZone then
     --------- ENTRAINEMENT - ZONE FOX3
     
     trainingSpawnZone.registerZone("BVR - ZONEFOX3- F16X1 -F18", {"BVR ZONE-FOX3 - F16CM - 1vs1 - F/A18C", "BVR ZONE-FOX3 - F16CM - 1vs1 - M-2000C", "BVR ZONE-FOX3 - F16CM - 1vs1 - F-14B"}, {"BVR - ZONEFOX3 - F16ECM X1"}, true)
-    trainingSpawnZone.registerZone("BVR - ZONEFOX3- F16X2 -F18", {"BVR ZONE-FOX3 - F16CM - 2vs2 - F/A18C", "BVR ZONE-FOX3 - F16CM - 2vs2 - M-2000C", "BVR ZONE-FOX3 - F16CM - 2vs2 - F-14B"}, {"BVR - ZONEFOX3 - F16ECM X2"}, true)
-    trainingSpawnZone.registerZone("BVR - ZONEFOX3- F16X4 -F18", {"BVR ZONE-FOX3 - F16CM - 4vs4 - F/A18C", "BVR ZONE-FOX3 - F16CM - 4vs4 - M-2000C", "BVR ZONE-FOX3 - F16CM - 4vs4 - F-14B"}, {"BVR - ZONEFOX3 - F16ECM X4"}, true)
+    trainingSpawnZone.registerZone("BVR - ZONEFOX3- F16X2 -F18", {"BVR ZONE-FOX3 - F16CM - 2vs2 - F/A18C", "BVR ZONE-FOX3 - F16CM - 2vs2 - M-2000C", "BVR ZONE-FOX3 - F16CM - 2vs2 - F-14B"}, {"BVR - ZONEFOX3 - F16ECM X2-1", "BVR - ZONEFOX3 - F16ECM X2-2"}, true)
+    trainingSpawnZone.registerZone("BVR - ZONEFOX3- F16X4 -F18", {"BVR ZONE-FOX3 - F16CM - 4vs4 - F/A18C", "BVR ZONE-FOX3 - F16CM - 4vs4 - M-2000C", "BVR ZONE-FOX3 - F16CM - 4vs4 - F-14B"}, {"BVR - ZONEFOX3 - F16ECM X4-1", "BVR - ZONEFOX3 - F16ECM X4-2", "BVR - ZONEFOX3 - F16ECM X4-3", "BVR - ZONEFOX3 - F16ECM X4-4"}, true)
     
     trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX1", {"BVR ZONE-FOX3 - J-11A - 1vs1 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 1vs1 - F-14B"}, {"BVR - ZONEFOX3 - J11A X1"}, true)
-    trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX2", {"BVR ZONE-FOX3 - J-11A - 2vs2 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 2vs2 - F-14B"}, {"BVR - ZONEFOX3 - J11A X2"}, true)
-    trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX4", {"BVR ZONE-FOX3 - J-11A - 4vs4 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 4vs4 - F-14B"}, {"BVR - ZONEFOX3 - J11A X4"}, true)
+    trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX2", {"BVR ZONE-FOX3 - J-11A - 2vs2 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 2vs2 - F-14B"}, {"BVR - ZONEFOX3 - J11A X2 -1", "BVR - ZONEFOX3 - J11A X2 -2"}, true)
+    trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX4", {"BVR ZONE-FOX3 - J-11A - 4vs4 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 4vs4 - F-14B"}, {"BVR - ZONEFOX3 - J11A X4-1", "BVR - ZONEFOX3 - J11A X4-1", "BVR - ZONEFOX3 - J11A X4-2", "BVR - ZONEFOX3 - J11A X4-3", "BVR - ZONEFOX3 - J11A X4-4"}, true)
     
     
     trainingSpawnZone.start()

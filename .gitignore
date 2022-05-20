@@ -11,3 +11,12 @@ configuration.json
 build-*.cmd
 init-*.cmd
 yarn.lock
+src/mission/l10n/DEFAULT/AVENGERS.ogg
+src/mission/l10n/DEFAULT/Kenny Loggins - Danger Zone (Video).ogg
+src/mission/l10n/DEFAULT/Matrix-Reloaded-Soundtrack-Chateau.ogg
+src/mission/l10n/DEFAULT/Mortal-Kombat-Theme-Song-Original.ogg
+src/mission/l10n/DEFAULT/pickle1.ogg
+src/mission/l10n/DEFAULT/Pirates.ogg
+src/mission/l10n/DEFAULT/Push-It-To-The-Limit.ogg
+src/mission/l10n/DEFAULT/the-godzilla-1998-song-come-with-me.ogg
+src/mission/l10n/DEFAULT/TROLL.ogg
