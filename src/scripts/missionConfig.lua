@@ -497,9 +497,9 @@ if trainingSpawnZone then
     
     --------- ENTRAINEMENT - R27-ER
     
-    trainingSpawnZone.registerZone("- ENT ER -1", {"ENT - EVITEMENT R27-ER -1", "ENT - EVITEMENT R27-ER -1 -M2000C", "ENT - EVITEMENT R27-ER -1 -F14B"}, {"SU-30 - FOX1 - ENT-1"}, true)
-    trainingSpawnZone.registerZone("- ENT ER -2", {"ENT - EVITEMENT R27-ER -2", "ENT - EVITEMENT R27-ER -2 -M2000C", "ENT - EVITEMENT R27-ER -2 -F14B"}, {"SU-30 - FOX1 - ENT-2"}, true)
-    trainingSpawnZone.registerZone("- ENT ER -3", {"ENT - EVITEMENT R27-ER -3", "ENT - EVITEMENT R27-ER -3 -M2000C", "ENT - EVITEMENT R27-ER -3 -F14B"}, {"SU-30 - FOX1 - ENT-3"}, true)
+    trainingSpawnZone.registerZone("- ENT ER -1", {"ENT - EVITEMENT R27-ER -1 -F/A18C", "ENT - EVITEMENT R27-ER -1 -M2000C", "ENT - EVITEMENT R27-ER -1 -F14B"}, {"SU-30 - FOX1 - ENT-1"}, true)
+    trainingSpawnZone.registerZone("- ENT ER -2", {"ENT - EVITEMENT R27-ER -2 -F/A18C", "ENT - EVITEMENT R27-ER -2 -M2000C", "ENT - EVITEMENT R27-ER -2 -F14B"}, {"SU-30 - FOX1 - ENT-2"}, true)
+    trainingSpawnZone.registerZone("- ENT ER -3", {"ENT - EVITEMENT R27-ER -3 -F/A18C", "ENT - EVITEMENT R27-ER -3 -M2000C", "ENT - EVITEMENT R27-ER -3 -F14B"}, {"SU-30 - FOX1 - ENT-3"}, true)
     
     --------- ENTRAINEMENT - 120C
     
