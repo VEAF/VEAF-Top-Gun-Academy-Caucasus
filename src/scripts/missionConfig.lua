@@ -529,7 +529,7 @@ if trainingSpawnZone then
     trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX2", {"BVR ZONE-FOX3 - J-11A - 2vs2 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 2vs2 - F-14B"}, {"BVR - ZONEFOX3 - J11A X2 -1", "BVR - ZONEFOX3 - J11A X2 -2"}, true)
     trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX4", {"BVR ZONE-FOX3 - J-11A - 4vs4 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 4vs4 - F-14B"}, {"BVR - ZONEFOX3 - J11A X4-1", "BVR - ZONEFOX3 - J11A X4-1", "BVR - ZONEFOX3 - J11A X4-2", "BVR - ZONEFOX3 - J11A X4-3", "BVR - ZONEFOX3 - J11A X4-4"}, true)
     
-    trainingSpawnZone.registerZone("BVR - ZONEFOX3- M2000C", {"BVR ZONE-FOX3 - F16CM - 2vs2 - F/A18C"}, {"BVR - ZONEFOX3 - M2000C-ECM X2"}, true)
+    trainingSpawnZone.registerZone("BVR - ZONEFOX3- M2000C", {"BVR ZONE-FOX3 - M2000C - 2vs2 - F/A18C"}, {"BVR - ZONEFOX3 - M2000C-ECM X2"}, true)
 
 
     trainingSpawnZone.start()
