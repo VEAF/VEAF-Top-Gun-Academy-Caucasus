@@ -503,15 +503,21 @@ if trainingSpawnZone then
     
     --------- ENTRAINEMENT - 120C
     
-    trainingSpawnZone.registerZone("- ENT 120 -1", {"ENT - EVITEMENT AIM-120C -1 -F/A18C", "ENT - EVITEMENT R77 -1 -M2000C", "ENT - EVITEMENT AIM-120C -1 -F14B"}, {"F-15E - FOX3 - ENT-1"}, true)
-    trainingSpawnZone.registerZone("- ENT 120 -2", {"ENT - EVITEMENT AIM-120C -2 -F/A18C", "ENT - EVITEMENT R77 -2 -M2000C", "ENT - EVITEMENT AIM-120C -2 -F14B"}, {"F-15E - FOX3 - ENT-2"}, true)
-    trainingSpawnZone.registerZone("- ENT 120 -3", {"ENT - EVITEMENT AIM-120C -3 -F/A18C", "ENT - EVITEMENT R77 -3 -M2000C", "ENT - EVITEMENT AIM-120C -3 -F14B"}, {"F-15E - FOX3 - ENT-3"}, true)
+    trainingSpawnZone.registerZone("- ENT 120 -1", {"ENT - EVITEMENT AIM-120C -1 -F/A18C", "ENT - EVITEMENT AIM-120C -1 -M2000C", "ENT - EVITEMENT AIM-120C -1 -F14B"}, {"F-16 - FOX3 - ENT-1"}, true)
+    trainingSpawnZone.registerZone("- ENT 120 -2", {"ENT - EVITEMENT AIM-120C -2 -F/A18C", "ENT - EVITEMENT AIM-120C -2 -M2000C", "ENT - EVITEMENT AIM-120C -2 -F14B"}, {"F-18 - FOX3 - ENT-2"}, true)
+    trainingSpawnZone.registerZone("- ENT 120 -3", {"ENT - EVITEMENT AIM-120C -3 -F/A18C", "ENT - EVITEMENT AIM-120C -3 -M2000C", "ENT - EVITEMENT AIM-120C -3 -F14B"}, {"F-15E - FOX3 - ENT-3"}, true)
     
     --------- ENTRAINEMENT - R-77
     
     trainingSpawnZone.registerZone("- ENT 77 -1", {"ENT - EVITEMENT R77 -1 -F/A18C", "ENT - EVITEMENT R77 -1 -M2000C", "ENT - EVITEMENT R77 -1 -F14B"}, {"J-11A - FOX3 - ENT-1"}, true)
     trainingSpawnZone.registerZone("- ENT 77 -2", {"ENT - EVITEMENT R77 -2 -F/A18C", "ENT - EVITEMENT R77 -2 -M2000C", "ENT - EVITEMENT R77 -2 -F14B", "ENT - EVITEMENT R77 -2 -F15C"}, {"J-11A - FOX3 - ENT-2"}, true)
     trainingSpawnZone.registerZone("- ENT 77 -3", {"ENT - EVITEMENT R77 -3 -F/A18C", "ENT - EVITEMENT R77 -3 -M2000C", "ENT - EVITEMENT R77 -3 -F14B"}, {"J-11A - FOX3 - ENT-3"}, true)
+    
+    --------- ENTRAINEMENT - R-530D
+    
+    trainingSpawnZone.registerZone("- ENT 530D -1", {"ENT - EVITEMENT 530D -1 -F/A18C", "ENT - EVITEMENT 530D -1 -M2000C", "ENT - EVITEMENT 530D -1 -F14B"}, {"M2000C - FOX1 - ENT-1"}, true)
+    trainingSpawnZone.registerZone("- ENT 530D -2", {"ENT - EVITEMENT 530D -2 -F/A18C", "ENT - EVITEMENT 530D -2 -M2000C", "ENT - EVITEMENT 530D -2 -F14B"}, {"M2000C - FOX1 - ENT-2"}, true)
+    trainingSpawnZone.registerZone("- ENT 530D -3", {"ENT - EVITEMENT 530D -3 -F/A18C", "ENT - EVITEMENT 530D -3 -M2000C", "ENT - EVITEMENT 530D -3 -F14B"}, {"M2000C - FOX1 - ENT-3"}, true)
     
     --------- ENTRAINEMENT - ZONE FOX3
     
@@ -523,6 +529,8 @@ if trainingSpawnZone then
     trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX2", {"BVR ZONE-FOX3 - J-11A - 2vs2 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 2vs2 - F-14B"}, {"BVR - ZONEFOX3 - J11A X2 -1", "BVR - ZONEFOX3 - J11A X2 -2"}, true)
     trainingSpawnZone.registerZone("BVR - ZONEFOX3- J11AX4", {"BVR ZONE-FOX3 - J-11A - 4vs4 - F/A18C", "BVR ZONE-FOX3 - J-11A - 4vs4 - M-2000C", "BVR ZONE-FOX3 - J-11A - 4vs4 - F-14B"}, {"BVR - ZONEFOX3 - J11A X4-1", "BVR - ZONEFOX3 - J11A X4-1", "BVR - ZONEFOX3 - J11A X4-2", "BVR - ZONEFOX3 - J11A X4-3", "BVR - ZONEFOX3 - J11A X4-4"}, true)
     
-    
+    trainingSpawnZone.registerZone("BVR - ZONEFOX3- M2000C", {"BVR ZONE-FOX3 - F16CM - 2vs2 - F/A18C"}, {"BVR - ZONEFOX3 - M2000C-ECM X2"}, true)
+
+
     trainingSpawnZone.start()
 end
