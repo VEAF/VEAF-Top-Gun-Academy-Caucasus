@@ -1,8 +1,8 @@
 dictionary = {
-    ["DictKey_ActionRadioText_1306"] = "Pirates",
+    ["DictKey_ActionRadioText_1306"] = "TopGun 2",
     ["DictKey_ActionRadioText_1316"] = "Come with me",
     ["DictKey_ActionRadioText_1317"] = "Troll",
-    ["DictKey_ActionRadioText_1318"] = "Avengers",
+    ["DictKey_ActionRadioText_1318"] = "Mission Impossible",
     ["DictKey_ActionRadioText_1319"] = "Danger Zone",
     ["DictKey_ActionRadioText_1320"] = "Push to Limit",
     ["DictKey_ActionRadioText_1321"] = "Matrix",
