@@ -371,8 +371,8 @@ if trainingSpawnZone then
     
     --------- BVR STAGE 1 - MIG-25
     
-    trainingSpawnZone.registerZone("BVR - STAGE 1 - MIG25x1", {"BVR STAGE 1 - MIG-25 - 1vs1 - F/A18C", "BVR STAGE 1 - MIG-25 - 1vs1 - M-2000C", "BVR STAGE 1 - MIG-25 - 1vs1 - F14B", "BVR STAGE 1 - MIG-25 - 1vs1 - F15C", "BVR STAGE 1 - MIG-25 - 1vs1 - F-15E"}, {"BVR STAGE 1 - MIG-25 -X1"}, true)
-    trainingSpawnZone.registerZone("BVR - STAGE 1 - MIG25x2", {"BVR STAGE 1 - MIG-25 - 2vs2 - F/A18C", "BVR STAGE 1 - MIG-25 - 2vs2 - M-2000C", "BVR STAGE 1 - MIG-25 - 2vs2 - F14B", "BVR STAGE 1 - MIG-25 - 2vs2 - F15C", "BVR STAGE 1 - MIG-25 - 2vs2 - F-15E"}, {"BVR STAGE 1 - MIG-25 -X2"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 1 - MIG25x1", {"BVR STAGE 1 - MIG-25 - 1vs1 - F/A18C", "BVR STAGE 1 - MIG-25 - 1vs1 - M-2000C", "BVR STAGE 1 - MIG-25 - 1vs1 - F14B", "BVR STAGE 1 - MIG-25 - 1vs1 - F15C", "BVR STAGE 1 - MIG-25 - 1vs1 - F-15E", "BVR STAGE 1 - MIG-25 - 1vs1 - F16CM"}, {"BVR STAGE 1 - MIG-25 -X1"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 1 - MIG25x2", {"BVR STAGE 1 - MIG-25 - 2vs2 - F/A18C", "BVR STAGE 1 - MIG-25 - 2vs2 - M-2000C", "BVR STAGE 1 - MIG-25 - 2vs2 - F14B", "BVR STAGE 1 - MIG-25 - 2vs2 - F15C", "BVR STAGE 1 - MIG-25 - 2vs2 - F-15E", "BVR STAGE 1 - MIG-25 - 2vs2 - F16CM"}, {"BVR STAGE 1 - MIG-25 -X2"}, true)
     trainingSpawnZone.registerZone("BVR - STAGE 1 - MIG25x4", {"BVR STAGE 1 - MIG-25 - 4vs4 - F/A18C", "BVR STAGE 1 - MIG-25 - 4vs4 - M-2000C", "BVR STAGE 1 - MIG-25 - 4vs4 - F14B", "BVR STAGE 1 - MIG-25 - 4vs4 - F-15E"}, {"BVR STAGE 1 - MIG-25 -X4"}, true)
     
     --------- BVR STAGE 1 - MIG-23
@@ -401,8 +401,8 @@ if trainingSpawnZone then
     
     --------- BVR STAGE 2 - SU-27
     
-    trainingSpawnZone.registerZone("BVR - STAGE 2- SU27x1", {"BVR STAGE 2 - SU-27 - 1vs1 - F/A18C", "BVR STAGE 2 - SU-27 - 1vs1 - M-2000C", "BVR STAGE 2 - SU-27 - 1vs1 - F-14B","BVR STAGE 2 - SU-27 - 1vs1 - F-15E"}, {"BVR - STAGE 2- SU27x1"}, true)
-    trainingSpawnZone.registerZone("BVR - STAGE 2- SU27x2", {"BVR STAGE 2 - SU-27 - 2vs2 - F/A18C", "BVR STAGE 2 - SU-27 - 2vs2 - M-2000C", "BVR STAGE 2 - SU-27 - 2vs2 - F-14B","BVR STAGE 2 - SU-27 - 2vs2 - F-15E"}, {"BVR - STAGE 2- SU27x2"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 2- SU27x1", {"BVR STAGE 2 - SU-27 - 1vs1 - F/A18C", "BVR STAGE 2 - SU-27 - 1vs1 - M-2000C", "BVR STAGE 2 - SU-27 - 1vs1 - F-14B","BVR STAGE 2 - SU-27 - 1vs1 - F-15E","BVR STAGE 2 - SU-27 - 1vs1 - F16CM"}, {"BVR - STAGE 2- SU27x1"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 2- SU27x2", {"BVR STAGE 2 - SU-27 - 2vs2 - F/A18C", "BVR STAGE 2 - SU-27 - 2vs2 - M-2000C", "BVR STAGE 2 - SU-27 - 2vs2 - F-14B","BVR STAGE 2 - SU-27 - 2vs2 - F-15E","BVR STAGE 2 - SU-27 - 2vs2 - F16CM"}, {"BVR - STAGE 2- SU27x2"}, true)
     trainingSpawnZone.registerZone("BVR - STAGE 2- SU27x4", {"BVR STAGE 2 - SU-27 - 4vs4 - F/A18C", "BVR STAGE 2 - SU-27 - 4vs4 - M-2000C", "BVR STAGE 2 - SU-27 - 4vs4 - F-14B","BVR STAGE 2 - SU-27 - 4vs4 - F-15E"}, {"BVR - STAGE 2- SU27x4"}, true)
     
     --------- BVR STAGE 2 - MIG-31
@@ -443,8 +443,8 @@ if trainingSpawnZone then
     
     --------- BVR STAGE 3 - SU-30
     
-    trainingSpawnZone.registerZone("BVR - STAGE 3 - SU30x1 -F18", {"BVR STAGE 3 - SU-30 - 1vs1 - F/A18C", "BVR STAGE 3 - SU-30 - 1vs1 - M-2000C", "BVR STAGE 3 - SU-30 - 1vs1 - F-14B", "BVR STAGE 3 - SU-30 - 1vs1 - F-15E"}, {"BVR - STAGE 3 - SU30 X1"}, true)
-    trainingSpawnZone.registerZone("BVR - STAGE 3 - SU30x2 -F18", {"BVR STAGE 3 - SU-30 - 2vs2 - F/A18C", "BVR STAGE 3 - SU-30 - 2vs2 - M-2000C", "BVR STAGE 3 - SU-30 - 2vs2 - F-14B", "BVR STAGE 3 - SU-30 - 2vs2 - F-15E"}, {"BVR - STAGE 3 - SU30 X2"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 3 - SU30x1 -F18", {"BVR STAGE 3 - SU-30 - 1vs1 - F/A18C", "BVR STAGE 3 - SU-30 - 1vs1 - M-2000C", "BVR STAGE 3 - SU-30 - 1vs1 - F-14B", "BVR STAGE 3 - SU-30 - 1vs1 - F-15E", "BVR STAGE 3 - SU-30 - 1vs1 - F16CM"}, {"BVR - STAGE 3 - SU30 X1"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 3 - SU30x2 -F18", {"BVR STAGE 3 - SU-30 - 2vs2 - F/A18C", "BVR STAGE 3 - SU-30 - 2vs2 - M-2000C", "BVR STAGE 3 - SU-30 - 2vs2 - F-14B", "BVR STAGE 3 - SU-30 - 2vs2 - F-15E", "BVR STAGE 3 - SU-30 - 2vs2 - F16CM"}, {"BVR - STAGE 3 - SU30 X2"}, true)
     trainingSpawnZone.registerZone("BVR - STAGE 3 - SU30x4 -F18", {"BVR STAGE 3 - SU-30 - 4vs4 - F/A18C", "BVR STAGE 3 - SU-30 - 4vs4 - M-2000C", "BVR STAGE 3 - SU-30 - 4vs4 - F-14B", "BVR STAGE 3 - SU-30 - 4vs4 - F-15E"}, {"BVR - STAGE 3 - SU30 X4"}, true)
     
     --------- BVR STAGE 3 - JF-17
@@ -467,8 +467,8 @@ if trainingSpawnZone then
     
     --------- BVR STAGE 4 - JF-17 ECM
     
-    trainingSpawnZone.registerZone("BVR - STAGE 4 JF17ECMx1 -F18", {"BVR STAGE 4 - JF-17-ECM - 1vs1 - F/A18C", "BVR STAGE 4 - JF-17ECM - 1vs1 - M-2000C", "BVR STAGE 4 - JF-17ECM - 1vs1 - F-14B", "BVR STAGE 4 - JF-17ECM - 1vs1 - F-15E"}, {"BVR - STAGE 4 - JF-17ECM X1"}, true)
-    trainingSpawnZone.registerZone("BVR - STAGE 4 JF17ECMx2 -F18", {"BVR STAGE 4 - JF-17-ECM - 2vs2 - F/A18C", "BVR STAGE 4 - JF-17ECM - 2vs2 - M-2000C", "BVR STAGE 4 - JF-17ECM - 2vs2 - F-14B", "BVR STAGE 4 - JF-17ECM - 2vs2 - F-15E"}, {"BVR - STAGE 4 - JF-17ECM X2"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 4 JF17ECMx1 -F18", {"BVR STAGE 4 - JF-17-ECM - 1vs1 - F/A18C", "BVR STAGE 4 - JF-17ECM - 1vs1 - M-2000C", "BVR STAGE 4 - JF-17ECM - 1vs1 - F-14B", "BVR STAGE 4 - JF-17ECM - 1vs1 - F-15E", "BVR STAGE 4 - JF-17ECM - 1vs1 - F16CM"}, {"BVR - STAGE 4 - JF-17ECM X1"}, true)
+    trainingSpawnZone.registerZone("BVR - STAGE 4 JF17ECMx2 -F18", {"BVR STAGE 4 - JF-17-ECM - 2vs2 - F/A18C", "BVR STAGE 4 - JF-17ECM - 2vs2 - M-2000C", "BVR STAGE 4 - JF-17ECM - 2vs2 - F-14B", "BVR STAGE 4 - JF-17ECM - 2vs2 - F-15E", "BVR STAGE 4 - JF-17ECM - 2vs2 - F16CM"}, {"BVR - STAGE 4 - JF-17ECM X2"}, true)
     trainingSpawnZone.registerZone("BVR - STAGE 4 JF17ECMx4 -F18", {"BVR STAGE 4 - JF-17-ECM - 4vs4 - F/A18C", "BVR STAGE 4 - JF-17ECM - 4vs4 - M-2000C", "BVR STAGE 4 - JF-17ECM - 4vs4 - F-14B", "BVR STAGE 4 - JF-17ECM - 4vs4 - F-15E"}, {"BVR - STAGE 4 - JF-17ECM X4"}, true)
     
     --------- BVR STAGE 4 - F16CM ECM
@@ -491,13 +491,13 @@ if trainingSpawnZone then
     
     --------- ENTRAINEMENT - R27-ET
     
-    trainingSpawnZone.registerZone("- ENT ET -1", {"ENT - EVITEMENT R27-ET -1 -F/A18C", "ENT - EVITEMENT R27-ET -1 -M2000C", "ENT - EVITEMENT R27-ET -1 -F14B", "ENT - EVITEMENT R27-ET -1 -F-15E"}, {"MIG29S - FOX2 - ENT-1"}, true)
+    trainingSpawnZone.registerZone("- ENT ET -1", {"ENT - EVITEMENT R27-ET -1 -F/A18C", "ENT - EVITEMENT R27-ET -1 -M2000C", "ENT - EVITEMENT R27-ET -1 -F14B", "ENT - EVITEMENT R27-ET -1 -F-15E", "ENT - EVITEMENT R27-ET -1 -F16CM"}, {"MIG29S - FOX2 - ENT-1"}, true)
     trainingSpawnZone.registerZone("- ENT ET -2", {"ENT - EVITEMENT R27-ET -2 -F/A18C", "ENT - EVITEMENT R27-ET -2 -M2000C", "ENT - EVITEMENT R27-ET -2 -F14B", "ENT - EVITEMENT R27-ET -2 -F-15E"}, {"MIG29S - FOX2 - ENT-2"}, true)
     trainingSpawnZone.registerZone("- ENT ET -3", {"ENT - EVITEMENT R27-ET -3 -F/A18C", "ENT - EVITEMENT R27-ET -3 -M2000C", "ENT - EVITEMENT R27-ET -3 -F14B", "ENT - EVITEMENT R27-ET -3 -F-15E"}, {"MIG29S - FOX2 - ENT-3"}, true)
     
     --------- ENTRAINEMENT - R27-ER
     
-    trainingSpawnZone.registerZone("- ENT ER -1", {"ENT - EVITEMENT R27-ER -1 -F/A18C", "ENT - EVITEMENT R27-ER -1 -M2000C", "ENT - EVITEMENT R27-ER -1 -F14B", "ENT - EVITEMENT R27-ER -1 -F-15E"}, {"SU-30 - FOX1 - ENT-1"}, true)
+    trainingSpawnZone.registerZone("- ENT ER -1", {"ENT - EVITEMENT R27-ER -1 -F/A18C", "ENT - EVITEMENT R27-ER -1 -M2000C", "ENT - EVITEMENT R27-ER -1 -F14B", "ENT - EVITEMENT R27-ER -1 -F-15E", "ENT - EVITEMENT R27-ER -1 -F16CM"}, {"SU-30 - FOX1 - ENT-1"}, true)
     trainingSpawnZone.registerZone("- ENT ER -2", {"ENT - EVITEMENT R27-ER -2 -F/A18C", "ENT - EVITEMENT R27-ER -2 -M2000C", "ENT - EVITEMENT R27-ER -2 -F14B", "ENT - EVITEMENT R27-ER -2 -F-15E"}, {"SU-30 - FOX1 - ENT-2"}, true)
     trainingSpawnZone.registerZone("- ENT ER -3", {"ENT - EVITEMENT R27-ER -3 -F/A18C", "ENT - EVITEMENT R27-ER -3 -M2000C", "ENT - EVITEMENT R27-ER -3 -F14B", "ENT - EVITEMENT R27-ER -3 -F-15E"}, {"SU-30 - FOX1 - ENT-3"}, true)
     
@@ -509,13 +509,13 @@ if trainingSpawnZone then
     
     --------- ENTRAINEMENT - R-77
     
-    trainingSpawnZone.registerZone("- ENT 77 -1", {"ENT - EVITEMENT R77 -1 -F/A18C", "ENT - EVITEMENT R77 -1 -M2000C", "ENT - EVITEMENT R77 -1 -F14B", "ENT - EVITEMENT R77 -1 -F-15E"}, {"J-11A - FOX3 - ENT-1"}, true)
+    trainingSpawnZone.registerZone("- ENT 77 -1", {"ENT - EVITEMENT R77 -1 -F/A18C", "ENT - EVITEMENT R77 -1 -M2000C", "ENT - EVITEMENT R77 -1 -F14B", "ENT - EVITEMENT R77 -1 -F-15E", "ENT - EVITEMENT R77 -1 -F16CM"}, {"J-11A - FOX3 - ENT-1"}, true)
     trainingSpawnZone.registerZone("- ENT 77 -2", {"ENT - EVITEMENT R77 -2 -F/A18C", "ENT - EVITEMENT R77 -2 -M2000C", "ENT - EVITEMENT R77 -2 -F14B", "ENT - EVITEMENT R77 -2 -F15C", "ENT - EVITEMENT R77 -2 -F-15E"}, {"J-11A - FOX3 - ENT-2"}, true)
     trainingSpawnZone.registerZone("- ENT 77 -3", {"ENT - EVITEMENT R77 -3 -F/A18C", "ENT - EVITEMENT R77 -3 -M2000C", "ENT - EVITEMENT R77 -3 -F14B", "ENT - EVITEMENT R77 -3 -F-15E"}, {"J-11A - FOX3 - ENT-3"}, true)
     
     --------- ENTRAINEMENT - R-530D
     
-    trainingSpawnZone.registerZone("- ENT 530D -1", {"ENT - EVITEMENT 530D -1 -F/A18C", "ENT - EVITEMENT 530D -1 -M2000C", "ENT - EVITEMENT 530D -1 -F14B", "ENT - EVITEMENT 530D -1 -F-15E"}, {"M2000C - FOX1 - ENT-1"}, true)
+    trainingSpawnZone.registerZone("- ENT 530D -1", {"ENT - EVITEMENT 530D -1 -F/A18C", "ENT - EVITEMENT 530D -1 -M2000C", "ENT - EVITEMENT 530D -1 -F14B", "ENT - EVITEMENT 530D -1 -F-15E", "ENT - EVITEMENT 530D -1 -F16CM"}, {"M2000C - FOX1 - ENT-1"}, true)
     trainingSpawnZone.registerZone("- ENT 530D -2", {"ENT - EVITEMENT 530D -2 -F/A18C", "ENT - EVITEMENT 530D -2 -M2000C", "ENT - EVITEMENT 530D -2 -F14B", "ENT - EVITEMENT 530D -2 -F-15E"}, {"M2000C - FOX1 - ENT-2"}, true)
     trainingSpawnZone.registerZone("- ENT 530D -3", {"ENT - EVITEMENT 530D -3 -F/A18C", "ENT - EVITEMENT 530D -3 -M2000C", "ENT - EVITEMENT 530D -3 -F14B", "ENT - EVITEMENT 530D -3 -F-15E"}, {"M2000C - FOX1 - ENT-3"}, true)
     
