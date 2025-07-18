@@ -368,7 +368,8 @@ veaf.silenceAtcOnAllAirbases()
 -- initialize the training zones
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 if trainingSpawnZone then
-    
+
+
 --------- BVR STAGE 1
 
 ---------- MIG25
@@ -471,51 +472,28 @@ if trainingSpawnZone then
     trainingSpawnZone.registerZone("STAGE 5 - Specialx1", {"F18 - BVR - Stage 5 - Special - 1vs1", "F14 - BVR - Stage 5 - Special - 1vs1", "F16 - BVR - Stage 5 - Special - 1vs1", "F15E - BVR - Stage 5 - Special - 1vs1", "M2000C - BVR - Stage 5 - Special - 1vs1"}, {"STAGE 5 - Specialx1-1", "STAGE 5 - Specialx1-2"}, true)
     trainingSpawnZone.registerZone("STAGE 5 - Specialx2", {"F18 - BVR - Stage 5 - Special - 2vs2", "F14 - BVR - Stage 5 - Special - 2vs2", "F16 - BVR - Stage 5 - Special - 2vs2", "F15E - BVR - Stage 5 - Special - 2vs2", "M2000C - BVR - Stage 5 - Special - 2vs2"}, {"STAGE 5 - Specialx2-1", "STAGE 5 - Specialx2-2", "STAGE 5 - Specialx2-3", "STAGE 5 - Specialx2-4" }, true)
 
+--------- ENTRAINEMENTS
 
+--------- ENT R27ER
+    trainingSpawnZone.registerZone("R27ER - SU30-1", {"F18 - ENT - R27ER - 1", "F14 - ENT - R27ER - 1", "F16 - ENT - R27ER - 1", "F15E - ENT - R27ER - 1", "M2000C - ENT - R27ER - 1"}, {"R27ER - SU30-1"}, true)
+    trainingSpawnZone.registerZone("R27ER - SU30-2", {"F18 - ENT - R27ER - 2", "F14 - ENT - R27ER - 2", "F16 - ENT - R27ER - 2", "F15E - ENT - R27ER - 2", "M2000C - ENT - R27ER - 2"}, {"R27ER - SU30-2"}, true)
+    trainingSpawnZone.registerZone("R27ER - SU30-3", {"F18 - ENT - R27ER - 3", "F14 - ENT - R27ER - 3", "F16 - ENT - R27ER - 3", "F15E - ENT - R27ER - 3", "M2000C - ENT - R27ER - 3"}, {"R27ER - SU30-3"}, true)
+--------- ENT R27ET
+    trainingSpawnZone.registerZone("R27ET - MIG29S-1", {"F18 - ENT - R27ET - 1", "F14 - ENT - R27ET - 1", "F16 - ENT - R27ET - 1", "F15E - ENT - R27ET - 1", "M2000C - ENT - R27ET - 1"}, {"R27ET - MIG29S-1"}, true)
+    trainingSpawnZone.registerZone("R27ET - MIG29S-2", {"F18 - ENT - R27ET - 2", "F14 - ENT - R27ET - 2", "F16 - ENT - R27ET - 2", "F15E - ENT - R27ET - 2", "M2000C - ENT - R27ET - 2"}, {"R27ET - MIG29S-2"}, true)
+    trainingSpawnZone.registerZone("R27ET - MIG29S-3", {"F18 - ENT - R27ET - 3", "F14 - ENT - R27ET - 3", "F16 - ENT - R27ET - 3", "F15E - ENT - R27ET - 3", "M2000C - ENT - R27ET - 3"}, {"R27ET - MIG29S-3"}, true)
+--------- ENT R77
+    trainingSpawnZone.registerZone("R77 - J11A-1", {"F18 - ENT - R77 - 1", "F14 - ENT - R77 - 1", "F16 - ENT - R77 - 1", "F15E - ENT - R77 - 1", "M2000C - ENT - R77 - 1"}, {"R77 - J11A-1"}, true)
+    trainingSpawnZone.registerZone("R77 - J11A-2", {"F18 - ENT - R77 - 2", "F14 - ENT - R77 - 2", "F16 - ENT - R77 - 2", "F15E - ENT - R77 - 2", "M2000C - ENT - R77 - 2"}, {"R77 - J11A-2"}, true)
+    trainingSpawnZone.registerZone("R77 - J11A-3", {"F18 - ENT - R77 - 3", "F14 - ENT - R77 - 3", "F16 - ENT - R77 - 3", "F15E - ENT - R77 - 3", "M2000C - ENT - R77 - 3"}, {"R77 - J11A-3"}, true)
+--------- ENT 120C
+    trainingSpawnZone.registerZone("120C - F16-1", {"F18 - ENT - 120C - 1", "F14 - ENT - 120C - 1", "F16 - ENT - 120C - 1", "F15E - ENT - 120C - 1", "M2000C - ENT - 120C - 1"}, {"120C - F16-1"}, true)
+    trainingSpawnZone.registerZone("120C - F16-2", {"F18 - ENT - 120C - 2", "F14 - ENT - 120C - 2", "F16 - ENT - 120C - 2", "F15E - ENT - 120C - 2", "M2000C - ENT - 120C - 2"}, {"120C - F16-2"}, true)
+    trainingSpawnZone.registerZone("120C - F16-3", {"F18 - ENT - 120C - 3", "F14 - ENT - 120C - 3", "F16 - ENT - 120C - 3", "F15E - ENT - 120C - 3", "M2000C - ENT - 120C - 3"}, {"120C - F16-3"}, true)
+--------- ENT 530D
+    trainingSpawnZone.registerZone("530D - M2000C-1", {"F18 - ENT - 530D - 1", "F14 - ENT - 530D - 1", "F16 - ENT - 530D - 1", "F15E - ENT - 530D - 1", "M2000C - ENT - 530D - 1"}, {"530D - M2000C-1"}, true)
+    trainingSpawnZone.registerZone("530D - M2000C-2", {"F18 - ENT - 530D - 2", "F14 - ENT - 530D - 2", "F16 - ENT - 530D - 2", "F15E - ENT - 530D - 2", "M2000C - ENT - 530D - 2"}, {"530D - M2000C-2"}, true)
+    trainingSpawnZone.registerZone("530D - M2000C-3", {"F18 - ENT - 530D - 3", "F14 - ENT - 530D - 3", "F16 - ENT - 530D - 3", "F15E - ENT - 530D - 3", "M2000C - ENT - 530D - 3"}, {"530D - M2000C-3"}, true)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    --------- ENTRAINEMENT - R27-ET
-    
-    trainingSpawnZone.registerZone("- ENT ET -1", {"ENT - EVITEMENT R27-ET -1 -F/A18C", "ENT - EVITEMENT R27-ET -1 -M2000C", "ENT - EVITEMENT R27-ET -1 -F14B", "ENT - EVITEMENT R27-ET -1 -F-15E", "ENT - EVITEMENT R27-ET -1 -F16CM"}, {"MIG29S - FOX2 - ENT-1"}, true)
-    trainingSpawnZone.registerZone("- ENT ET -2", {"ENT - EVITEMENT R27-ET -2 -F/A18C", "ENT - EVITEMENT R27-ET -2 -M2000C", "ENT - EVITEMENT R27-ET -2 -F14B", "ENT - EVITEMENT R27-ET -2 -F-15E"}, {"MIG29S - FOX2 - ENT-2"}, true)
-    trainingSpawnZone.registerZone("- ENT ET -3", {"ENT - EVITEMENT R27-ET -3 -F/A18C", "ENT - EVITEMENT R27-ET -3 -M2000C", "ENT - EVITEMENT R27-ET -3 -F14B", "ENT - EVITEMENT R27-ET -3 -F-15E"}, {"MIG29S - FOX2 - ENT-3"}, true)
-    
-    --------- ENTRAINEMENT - R27-ER
-    
-    trainingSpawnZone.registerZone("- ENT ER -1", {"ENT - EVITEMENT R27-ER -1 -F/A18C", "ENT - EVITEMENT R27-ER -1 -M2000C", "ENT - EVITEMENT R27-ER -1 -F14B", "ENT - EVITEMENT R27-ER -1 -F-15E", "ENT - EVITEMENT R27-ER -1 -F16CM"}, {"SU-30 - FOX1 - ENT-1"}, true)
-    trainingSpawnZone.registerZone("- ENT ER -2", {"ENT - EVITEMENT R27-ER -2 -F/A18C", "ENT - EVITEMENT R27-ER -2 -M2000C", "ENT - EVITEMENT R27-ER -2 -F14B", "ENT - EVITEMENT R27-ER -2 -F-15E"}, {"SU-30 - FOX1 - ENT-2"}, true)
-    trainingSpawnZone.registerZone("- ENT ER -3", {"ENT - EVITEMENT R27-ER -3 -F/A18C", "ENT - EVITEMENT R27-ER -3 -M2000C", "ENT - EVITEMENT R27-ER -3 -F14B", "ENT - EVITEMENT R27-ER -3 -F-15E"}, {"SU-30 - FOX1 - ENT-3"}, true)
-    
-    --------- ENTRAINEMENT - 120C
-    
-    trainingSpawnZone.registerZone("- ENT 120 -1", {"ENT - EVITEMENT AIM-120C -1 -F/A18C", "ENT - EVITEMENT AIM-120C -1 -M2000C", "ENT - EVITEMENT AIM-120C -1 -F14B", "ENT - EVITEMENT AIM-120C -1 -F-15E"}, {"F-16 - FOX3 - ENT-1"}, true)
-    trainingSpawnZone.registerZone("- ENT 120 -2", {"ENT - EVITEMENT AIM-120C -2 -F/A18C", "ENT - EVITEMENT AIM-120C -2 -M2000C", "ENT - EVITEMENT AIM-120C -2 -F14B", "ENT - EVITEMENT AIM-120C -2 -F-15E"}, {"F-18 - FOX3 - ENT-2"}, true)
-    trainingSpawnZone.registerZone("- ENT 120 -3", {"ENT - EVITEMENT AIM-120C -3 -F/A18C", "ENT - EVITEMENT AIM-120C -3 -M2000C", "ENT - EVITEMENT AIM-120C -3 -F14B", "ENT - EVITEMENT AIM-120C -3 -F-15E"}, {"F-15E - FOX3 - ENT-3"}, true)
-    
-    --------- ENTRAINEMENT - R-77
-    
-    trainingSpawnZone.registerZone("- ENT 77 -1", {"ENT - EVITEMENT R77 -1 -F/A18C", "ENT - EVITEMENT R77 -1 -M2000C", "ENT - EVITEMENT R77 -1 -F14B", "ENT - EVITEMENT R77 -1 -F-15E", "ENT - EVITEMENT R77 -1 -F16CM"}, {"J-11A - FOX3 - ENT-1"}, true)
-    trainingSpawnZone.registerZone("- ENT 77 -2", {"ENT - EVITEMENT R77 -2 -F/A18C", "ENT - EVITEMENT R77 -2 -M2000C", "ENT - EVITEMENT R77 -2 -F14B", "ENT - EVITEMENT R77 -2 -F15C", "ENT - EVITEMENT R77 -2 -F-15E"}, {"J-11A - FOX3 - ENT-2"}, true)
-    trainingSpawnZone.registerZone("- ENT 77 -3", {"ENT - EVITEMENT R77 -3 -F/A18C", "ENT - EVITEMENT R77 -3 -M2000C", "ENT - EVITEMENT R77 -3 -F14B", "ENT - EVITEMENT R77 -3 -F-15E"}, {"J-11A - FOX3 - ENT-3"}, true)
-    
-    --------- ENTRAINEMENT - R-530D
-    
-    trainingSpawnZone.registerZone("- ENT 530D -1", {"ENT - EVITEMENT 530D -1 -F/A18C", "ENT - EVITEMENT 530D -1 -M2000C", "ENT - EVITEMENT 530D -1 -F14B", "ENT - EVITEMENT 530D -1 -F-15E", "ENT - EVITEMENT 530D -1 -F16CM"}, {"M2000C - FOX1 - ENT-1"}, true)
-    trainingSpawnZone.registerZone("- ENT 530D -2", {"ENT - EVITEMENT 530D -2 -F/A18C", "ENT - EVITEMENT 530D -2 -M2000C", "ENT - EVITEMENT 530D -2 -F14B", "ENT - EVITEMENT 530D -2 -F-15E"}, {"M2000C - FOX1 - ENT-2"}, true)
-    trainingSpawnZone.registerZone("- ENT 530D -3", {"ENT - EVITEMENT 530D -3 -F/A18C", "ENT - EVITEMENT 530D -3 -M2000C", "ENT - EVITEMENT 530D -3 -F14B", "ENT - EVITEMENT 530D -3 -F-15E"}, {"M2000C - FOX1 - ENT-3"}, true)
-    
     trainingSpawnZone.start()
 end
