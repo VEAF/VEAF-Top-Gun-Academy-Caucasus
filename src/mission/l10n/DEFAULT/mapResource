@@ -39,6 +39,7 @@ mapResource = {
     ["ResKey_Action_1330"] = "Matrix-Reloaded-Soundtrack-Chateau.ogg",
     ["ResKey_Action_1331"] = "MORTAL-KOMBAT-THEME-Two-Steps-From-Hell-Style-EPIC-TRAILER-VERSION-_1.ogg",
     ["ResKey_Action_1332"] = "pickle1.ogg",
+    ["ResKey_Action_1334"] = "pickle1.ogg",
     ["ResKey_Action_232"] = "trainingSpawnZone.lua",
     ["ResKey_ImageBriefing_1277"] = "TOP GUN.jpg",
     ["ResKey_ImageBriefing_1300"] = "TOP GUN.jpg",
