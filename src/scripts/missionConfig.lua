@@ -479,21 +479,25 @@ if trainingSpawnZone then
     trainingSpawnZone.registerZone("R27ER - SU30-2", {"F18 - ENT - R27ER -2", "F14 - ENT - R27ER -2", "F16 - ENT - R27ER -2", "F15E - ENT - R27ER -2", "M2000C - ENT - R27ER -2"}, {"R27ER - SU30-2"}, true)
     trainingSpawnZone.registerZone("R27ER - SU30-3", {"F18 - ENT - R27ER -3", "F14 - ENT - R27ER -3", "F16 - ENT - R27ER -3", "F15E - ENT - R27ER -3", "M2000C - ENT - R27ER -3"}, {"R27ER - SU30-3"}, true)
 --------- ENT R27ET
-    trainingSpawnZone.registerZone("R27ET - MIG29S-1", {"F18 - ENT - R27ET -1", "F14 - ENT - R27ET -1", "F16 - ENT - R27ET -1", "F15E - ENT - R27ET - 1", "M2000C - ENT - R27ET -1"}, {"R27ET - MIG29S-1"}, true)
-    trainingSpawnZone.registerZone("R27ET - MIG29S-2", {"F18 - ENT - R27ET -2", "F14 - ENT - R27ET -2", "F16 - ENT - R27ET -2", "F15E - ENT - R27ET - 2", "M2000C - ENT - R27ET -2"}, {"R27ET - MIG29S-2"}, true)
-    trainingSpawnZone.registerZone("R27ET - MIG29S-3", {"F18 - ENT - R27ET -3", "F14 - ENT - R27ET -3", "F16 - ENT - R27ET -3", "F15E - ENT - R27ET - 3", "M2000C - ENT - R27ET -3"}, {"R27ET - MIG29S-3"}, true)
+    trainingSpawnZone.registerZone("R27ET - MIG29S-1", {"F18 - ENT - R27ET -1", "F14 - ENT - R27ET -1", "F16 - ENT - R27ET -1", "F15E - ENT - R27ET -1", "M2000C - ENT - R27ET -1"}, {"R27ET - MIG29S-1"}, true)
+    trainingSpawnZone.registerZone("R27ET - MIG29S-2", {"F18 - ENT - R27ET -2", "F14 - ENT - R27ET -2", "F16 - ENT - R27ET -2", "F15E - ENT - R27ET -2", "M2000C - ENT - R27ET -2"}, {"R27ET - MIG29S-2"}, true)
+    trainingSpawnZone.registerZone("R27ET - MIG29S-3", {"F18 - ENT - R27ET -3", "F14 - ENT - R27ET -3", "F16 - ENT - R27ET -3", "F15E - ENT - R27ET -3", "M2000C - ENT - R27ET -3"}, {"R27ET - MIG29S-3"}, true)
 --------- ENT R77
     trainingSpawnZone.registerZone("R77 - J11A-1", {"F18 - ENT - R77 -1", "F14 - ENT - R77 -1", "F16 - ENT - R77 - 1", "F15E - ENT - R77 -1", "M2000C - ENT - R77 -1"}, {"R77 - J11A-1"}, true)
     trainingSpawnZone.registerZone("R77 - J11A-2", {"F18 - ENT - R77 -2", "F14 - ENT - R77 -2", "F16 - ENT - R77 - 2", "F15E - ENT - R77 -2", "M2000C - ENT - R77 -2"}, {"R77 - J11A-2"}, true)
     trainingSpawnZone.registerZone("R77 - J11A-3", {"F18 - ENT - R77 -3", "F14 - ENT - R77 -3", "F16 - ENT - R77 - 3", "F15E - ENT - R77 -3", "M2000C - ENT - R77 -3"}, {"R77 - J11A-3"}, true)
 --------- ENT 120C
-    trainingSpawnZone.registerZone("120C - F16-1", {"F18 - ENT - 120C -1", "F14 - ENT - 120C -1", "F16 - ENT - 120C - 1", "F15E - ENT - 120C -1", "M2000C - ENT - 120C -1"}, {"120C - F16-1"}, true)
-    trainingSpawnZone.registerZone("120C - F16-2", {"F18 - ENT - 120C -2", "F14 - ENT - 120C -2", "F16 - ENT - 120C - 2", "F15E - ENT - 120C -2", "M2000C - ENT - 120C -2"}, {"120C - F16-2"}, true)
-    trainingSpawnZone.registerZone("120C - F16-3", {"F18 - ENT - 120C -3", "F14 - ENT - 120C -3", "F16 - ENT - 120C - 3", "F15E - ENT - 120C -3", "M2000C - ENT - 120C -3"}, {"120C - F16-3"}, true)
+    trainingSpawnZone.registerZone("120C - F16-1", {"F18 - ENT - 120C -1", "F14 - ENT - 120C -1", "F16 - ENT - 120C -1", "F15E - ENT - 120C -1", "M2000C - ENT - 120C -1"}, {"120C - F16-1"}, true)
+    trainingSpawnZone.registerZone("120C - F16-2", {"F18 - ENT - 120C -2", "F14 - ENT - 120C -2", "F16 - ENT - 120C -2", "F15E - ENT - 120C -2", "M2000C - ENT - 120C -2"}, {"120C - F16-2"}, true)
+    trainingSpawnZone.registerZone("120C - F16-3", {"F18 - ENT - 120C -3", "F14 - ENT - 120C -3", "F16 - ENT - 120C -3", "F15E - ENT - 120C -3", "M2000C - ENT - 120C -3"}, {"120C - F16-3"}, true)
 --------- ENT 530D
-    trainingSpawnZone.registerZone("530D - M2000C-1", {"F18 - ENT - 530D -1", "F14 - ENT - 530D -1", "F16 - ENT - 530D - 1", "F15E - ENT - 530D -1", "M2000C - ENT - 530D -1"}, {"530D - M2000C-1"}, true)
-    trainingSpawnZone.registerZone("530D - M2000C-2", {"F18 - ENT - 530D -2", "F14 - ENT - 530D -2", "F16 - ENT - 530D - 2", "F15E - ENT - 530D -2", "M2000C - ENT - 530D -2"}, {"530D - M2000C-2"}, true)
-    trainingSpawnZone.registerZone("530D - M2000C-3", {"F18 - ENT - 530D -3", "F14 - ENT - 530D -3", "F16 - ENT - 530D - 3", "F15E - ENT - 530D -3", "M2000C - ENT - 530D -3"}, {"530D - M2000C-3"}, true)
+    trainingSpawnZone.registerZone("530D - M2000C-1", {"F18 - ENT - 530D -1", "F14 - ENT - 530D -1", "F16 - ENT - 530D -1", "F15E - ENT - 530D -1", "M2000C - ENT - 530D -1"}, {"530D - M2000C-1"}, true)
+    trainingSpawnZone.registerZone("530D - M2000C-2", {"F18 - ENT - 530D -2", "F14 - ENT - 530D -2", "F16 - ENT - 530D -2", "F15E - ENT - 530D -2", "M2000C - ENT - 530D -2"}, {"530D - M2000C-2"}, true)
+    trainingSpawnZone.registerZone("530D - M2000C-3", {"F18 - ENT - 530D -3", "F14 - ENT - 530D -3", "F16 - ENT - 530D -3", "F15E - ENT - 530D -3", "M2000C - ENT - 530D -3"}, {"530D - M2000C-3"}, true)
+--------- ENT SD10
+    trainingSpawnZone.registerZone("SD10 - JF17-1", {"F18 - ENT - SD10 -1", "F14 - ENT - SD10 -1", "F16 - ENT - SD10 -1", "F15E - ENT - SD10 -1", "M2000C - ENT - SD10 -1"}, {"SD10 - JF17-1"}, true)
+    trainingSpawnZone.registerZone("SD10 - JF17-2", {"F18 - ENT - SD10 -2", "F14 - ENT - SD10 -2", "F16 - ENT - SD10 -2", "F15E - ENT - SD10 -2", "M2000C - ENT - SD10 -2"}, {"SD10 - JF17-2"}, true)
+    trainingSpawnZone.registerZone("SD10 - JF17-3", {"F18 - ENT - SD10 -3", "F14 - ENT - SD10 -3", "F16 - ENT - SD10 -3", "F15E - ENT - SD10 -3", "M2000C - ENT - SD10 -3"}, {"SD10 - JF17-3"}, true)
 
     trainingSpawnZone.start()
 end
