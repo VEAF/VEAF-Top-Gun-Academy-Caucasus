@@ -400,7 +400,7 @@ warehouses = {
             ["aircrafts"] = {
             }, -- end of ["aircrafts"]
             ["allowHotStart"] = false,
-            ["coalition"] = "BLUE",
+            ["coalition"] = "RED",
             ["diesel"] = {
                 ["InitFuel"] = 100,
             }, -- end of ["diesel"]
@@ -631,7 +631,7 @@ warehouses = {
             ["aircrafts"] = {
             }, -- end of ["aircrafts"]
             ["allowHotStart"] = false,
-            ["coalition"] = "BLUE",
+            ["coalition"] = "RED",
             ["diesel"] = {
                 ["InitFuel"] = 100,
             }, -- end of ["diesel"]
